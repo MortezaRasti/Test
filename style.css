@@ -4,5 +4,12 @@ padding: 0;
 box-sizing: border-box;
 }
 body{
-    background-color: red;
+    background-color: Green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+p{
+    font-size: 40px;
 }
